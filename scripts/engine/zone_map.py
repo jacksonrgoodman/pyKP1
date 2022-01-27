@@ -2,10 +2,10 @@
 ####################
 #
 # dictionary = {
-#     "key" : "string",
-#     "bool" : True,
-#     "int" : 0,
-#     "array" : [],
+#     "key": "string",
+#     "bool": True,
+#     "int": 0,
+#     "array": [],
 #     "set": {}
 # }
 ####################
